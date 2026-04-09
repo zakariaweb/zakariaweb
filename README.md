@@ -65,12 +65,12 @@ Developing apps and showcasing them to peers while pursuing academic excellence 
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=transparent&langs_count=10&title_color=2196F3&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=radical&title_color=2196F3&text_color=ffffff&bg_color=0d1117&langs_count=10" width="48%" />
 
 <br>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaweb&theme=dark&hide_border=true&stroke=2196F3)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaweb&theme=dark&hide_border=true&stroke=2196F3&background=0d1117)
 
 <br>
 
@@ -86,8 +86,15 @@ Developing apps and showcasing them to peers while pursuing academic excellence 
 * **Inquiries:** [zyservicesg@gmail.com](mailto:zyservicesg@gmail.com)
 * **Fun Fact:** I'm a 17yo dev who could beat Notion and Google Drive in specific aspects.
 
+---
+
 <div align="center">
 
-### 🎯 *"Code is like humor. When you have to explain it, it's bad."*
+### 💡 Rotating Developer Inspiration
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=2196F3&bg_color=0d1117" alt="Dynamic Quote" />
+
+<br>
+
+**Thank you for visiting my profile! 😊**
 
 </div>
