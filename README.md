@@ -1,12 +1,8 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&height=70&lines=ZACH+QASID;CEO+%26+FOUNDER+OF+ZYTECH;REDEFINING+PRIVACY+DESIGN" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=550&height=70&lines=ZACH+QASID;CEO+%26+FOUNDER+OF+ZYTECH;THE+FUTURE+OF+DIGITAL+INFRASTRUCTURE" alt="Typing SVG" />
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=zakariaweb&repo=Zy-Framework&theme=radical&show_owner=true&title_color=2196F3&bg_color=0d1117&border_color=2196F3" align="right" width="350" />
-
-<br>
-
-<img src="https://github.com/zakariaweb.png" alt="Zach Q." width="160" height="160" style="border-radius: 50%; border: 3px solid #2196F3;" />
+<img src="https://github.com/zakariaweb.png" alt="Zach Q." width="160" height="160" />
 
 ### 🌌 Architecting the Next Generation of Local-First Tech
 📍 **Casablanca, Morocco**
@@ -17,38 +13,56 @@
 
 </div>
 
-## 🧬 The Executive Bio
-<p align="left">
-I’m <b>Zakaria (Zach)</b>, 17, a full-stack developer passionate about building innovative web applications that combine productivity, gamification, and privacy-first design. I specialize in offline-capable PWAs, modular architectures, AI integration, and modern web technologies. 
-</p>
+## 🧬 Executive Bio
+I’m **Zakaria (Zach)**, 17, a full-stack developer passionate about building innovative web applications that combine productivity, gamification, and privacy-first design. I specialize in offline-capable PWAs, modular architectures, and AI integration. 
 
-<p align="left">
-Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest in tech, anime, and creative projects. My work reflects a focus on problem-solving, user experience, and scalable, secure solutions.
-</p>
+Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest in tech, anime, and creative projects. My work reflects a focus on problem-solving, user experience, and scalable, secure solutions. We are not just building apps; we are architecting the future.
 
 ---
 
-## 🏗️ Professional Ecosystem
+## 🏛️ The zySERVICES Ecosystem
+*Our specialized branches dedicated to redefining the digital world.*
 
-<div align="center">
+| Branch | Project | Status | Description |
+| :--- | :--- | :--- | :--- |
+| **Infrastructure** | **zyCLOUD** | 🛠️ *Active Dev* | Privacy-centric cloud architecture for the next era. |
+| **Productivity** | **zyFOCUS** | ⚡ *In Progress* | Gamified productivity tool designed to beat the giants. |
+| **Cybersecurity** | **zySECURITY** | 🛡️ **COMING SOON** | Uncompromising local-first security protocols. |
+| **Education** | **zyEXAM** | 🎓 **COMING SOON** | The future of examination and academic assessment. |
 
-| 🚀 CURRENT VENTURE | 🛠️ CORE FRAMEWORK | 🎓 ACADEMIC TRACK |
-| :--- | :--- | :--- |
-| **Zytech** | **ZyUI Engine** | **Physics & Chemistry** |
-| CEO & Founder | Lead Architect | Ongoing Excellence |
+---
 
-</div>
+## 💼 Professional Trajectory
 
-> *"As the founder I make sure to build the future, while fixing the present."*
+### **Zytech** | CEO & Founder
+*May 2025 – Present*
+
+> *"As the founder I make sure to build the future, while fixing the present. We are professional, capable, and ready to lead."*
+
+* **Core Focus:** Local-first infrastructure and global scalability.
+* **Tech Stack:** JavaScript, CSS3, HTML5, ZyUI.
+* **Key Achievement:** Architecting the **zySERVICES** ecosystem to outperform industry standards.
+
+---
+
+## 🎓 Education & Knowledge Base
+
+### **Full-Stack Engineering** | Self-Taught via Codecademy
+*2023 – Present*
+Focused on deep-level JavaScript, backend systems, and modern architectural patterns. 
+
+### **Physics & Chemistry Track** | El Kindi High School
+*2024 – 2026 (Ongoing)*
+Applying scientific principles to software logic. Preparing for a Bachelor's degree to further scale Zytech.
 
 ---
 
 ## 🛠️ Technological Arsenal
 
-### **Frontend Mastery**
+### **Frontend & Architecture**
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma" />
 
-### **Backend & Systems**
+### **Backend & Deployment**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,vercel" />
 
 ---
@@ -57,25 +71,18 @@ Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest i
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=2196F3&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=radical&title_color=2196F3&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=2196F3&langs_count=10" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=radical&title_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&langs_count=10" width="48%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaweb&theme=dark&hide_border=false&border=2196F3&stroke=2196F3&background=0d1117" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaweb&theme=dark&border=2196F3&stroke=2196F3&background=0d1117" width="100%" />
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=zakariaweb&label=TOTAL+TRAFFIC&color=2196F3&style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=zakariaweb&label=GLOBAL+TRAFFIC&color=2196F3&style=for-the-badge)
 
 </div>
-
----
-
-## ⚡ Beyond the Code
-* 🎯 **The Goal:** Build tools that outperform industry giants like Notion and Google Drive.
-* 📝 **Articles:** [Under Construction]
-* 📄 **Portfolio:** [zytechg.vercel.app/ceo.html](https://zytechg.vercel.app/ceo.html)
 
 ---
 
