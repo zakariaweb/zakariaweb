@@ -1,115 +1,93 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Zach+Q.;CEO+%26+Founder+of+ZyTech;17-Year-Old+Dev" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Zach+Q.;CEO+%26+Founder+of+ZyTech;Full-stack+Developer" alt="Typing SVG" />
 
-<img src="https://github.com/zakariaweb.png" alt="Zach Q." width="150" height="150" />
+<img src="https://github.com/zakariaweb.png" alt="Zach Q." width="140" height="140" style="border-radius: 50%;" />
 
-### A passionate developer from Morocco
+### Building the Future of Privacy-First Design
+📍 **Casablanca, Morocco**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakariaweb)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-qasid-637989266/)&nbsp;&nbsp;[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/zyservices)
+
+---
 
 </div>
 
-## 🚀 About Me
+## 📑 Executive Summary
 
 I’m Zakaria (Zach), 17, a full-stack developer passionate about building innovative web applications that combine productivity, gamification, and privacy-first design. I specialize in offline-capable PWAs, modular architectures, AI integration, and modern web technologies.
 
 Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest in tech, anime, and creative projects. My work reflects a focus on problem-solving, user experience, and scalable, secure solutions.
 
-## 💼 Current Work
+---
 
-- 🔭 I'm currently working on **ZyUI, ZyCLOUD, ZyFOCUS**
-- 👯 I'm looking to collaborate on **ZyCLOUD**
-- 🤝 I'm looking for help with **ZyUI**
+## 💼 Professional Trajectory
 
-## 📚 Learning & Knowledge
+### **Zytech** | CEO & Founder
+*May 2025 – Present*
 
-- 🌱 I'm currently learning **More technologies to overcome the struggles of today , maybe i'll learn react in the future.**
+> *"As the founder I make sure to build the future, while fixing the present."*
 
-## 💼 Work Experience
+* **Core Focus:** Privacy-centric architecture and local-first productivity.
+* **Tech Stack:** JavaScript, CSS3, HTML5, ZyUI.
+* **Key Achievement:** Developed the first local-first productivity ecosystem.
 
-| Company | Position | Duration |
+### **Education** | Physics & Chemistry Track
+*El Kindi High School | 2024 – 2026*
+
+Developing apps and showcasing them to peers while pursuing academic excellence in preparation for a Bachelor's degree.
+
+---
+
+## 🚀 Key Projects
+
+| Project | Description | Status & Links |
 | :--- | :--- | :--- |
-| **Zytech** | **CEO/FOUNDER** | 2025-05 - Present |
+| **ZyUI** | A high-performance framework (CSS & JS) designed for modern, fast-loading web interfaces. | [Live](https://zyfocusg.vercel.app) / [Source](https://github.com/zakariaweb/Zy-Framework) |
+| **ZyFOCUS** | Advanced productivity tool with gamification elements. | **In Development** |
+| **ZyCLOUD** | Private-first cloud integration services. | **Collaborating** |
 
-### CEO/FOUNDER at Zytech
-*Casablanca, Morocco*
+*Technologies Used for ZyUI:* Vanilla JS, React, Vue, Angular, CSS, NPM.
 
-As the founder I make sure to build the future, while fixing the present.
+---
 
-**Technologies:** JS, CSS, HTML, ZyUI
+## 🛠️ Technical Ecosystem
 
-**Key Achievements:**
-- FOUNDER
-- PRIVACY
-- FIRST LOCAL-FIRST PRODUCTIVITY APP
+### **Frontend & Languages**
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 🚀 Projects
+### **Backend & Systems**
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Jekyll](https://img.shields.io/badge/Jekyll-000000?style=flat-square&logo=jekyll&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-| Project | Description | Links |
-| :--- | :--- | :--- |
-| **ZyUI** | A Framework (css & js) that would help u create ur website, it's modern and very fast , try it ! | [Live](https://zyfocusg.vercel.app) / [GitHub](https://github.com/zakariaweb/Zy-Framework) |
+---
 
-### ZyUI
-**Technologies Used:** Vanilla JS, React, Vue, Angular, Css, NPM
-
-## 🎓 Education
-
-| Institution | Degree | Duration |
-| :--- | :--- | :--- |
-| **El Kindi High School** | **ongoing in Physics & Chemistry Track** | 2024-09 - 2026-06 |
-
-It was a good journey, developing apps and showing them to my friends, yet I hope to get my bachelor's soon so I can continue coding!
-
-## 📞 Contact & Links
-
-- 📫 How to reach me: **zyservicesg@gmail.com**
-- 👨‍💻 All of my projects: [zytechg.vercel.app/ceo.html](https://zytechg.vercel.app/ceo.html)
-- 📝 Articles: [none](none)
-- 📄 Experience: [zytechg.vercel.app/ceo.html](https://zytechg.vercel.app/ceo.html)
-
-## ⚡ Fun Fact
+## 📊 Performance Metrics
 
 <div align="center">
 
-> *i'm 17 yo dev who could beat notion , google drive .... , in some aspects *
-
-</div>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakariaweb)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-qasid-637989266/)&nbsp;&nbsp;[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/zyservices)
-
-</div>
-
-## 🛠️ Skills & Technologies
-
-### 💻 Languages & Development
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Jekyll](https://img.shields.io/badge/Jekyll-000000?style=for-the-badge&logo=jekyll&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=zakariaweb&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&title_color=2196F3&icon_color=2196F3&text_color=ffffff" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=transparent&langs_count=10&title_color=2196F3&text_color=ffffff" width="48%" />
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=radical&count_private=true&include_all_commits=true" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=radical&langs_count=10" width="48%" />
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaweb&theme=dark&hide_border=true&stroke=2196F3)
 
 <br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaweb&theme=dark&hide_border=true)
+![Visitors](https://komarev.com/ghpvc/?username=zakariaweb&label=NETWORK+VISITORS&color=2196F3&style=for-the-badge)
 
 </div>
 
 ---
 
+## 📞 Strategic Links
+
+* **Network:** [zytechg.vercel.app/ceo.html](https://zytechg.vercel.app/ceo.html)
+* **Inquiries:** [zyservicesg@gmail.com](mailto:zyservicesg@gmail.com)
+* **Fun Fact:** I'm a 17yo dev who could beat Notion and Google Drive in specific aspects.
+
 <div align="center">
 
-### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thank you for visiting my profile! 😊**
+### 🎯 *"Code is like humor. When you have to explain it, it's bad."*
 
 </div>
