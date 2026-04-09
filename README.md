@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Zach+Q.;CEO+%26+Founder+of+ZyTech;17-Year-Old+Dev" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Hi+👋,+I'm+Zach+Q.;CEO+%26+Founder+of+ZyTech;17-Year-Old+Dev" alt="Typing SVG" />
 
 <img src="https://github.com/zakariaweb.png" alt="Zach Q." width="150" height="150" />
 
