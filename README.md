@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=550&height=70&lines=ZAKARIA+QASID;CEO+%26+FOUNDER+OF+ZYTECH;THE+FUTURE+OF+DIGITAL+INFRASTRUCTURE" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=550&height=70&lines=ZAKARIA+QASID;CEO+%26+FOUNDER+OF+ZYTECH;THE+FUTURE+OF+THE+WORLD" alt="Typing SVG" />
 
 <img src="https://github.com/zakariaweb.png" alt="Zakaria Qasid" width="160" height="160" />
 
@@ -14,9 +14,7 @@
 </div>
 
 ## 🧬 Executive Bio
-I’m **Zakaria Qasid**, 17, a full-stack developer passionate about building innovative web applications that combine productivity, gamification, and privacy-first design. I specialize in offline-capable PWAs, modular architectures, and AI integration. 
-
-Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest in tech, anime, and creative projects. My work reflects a focus on problem-solving, user experience, and scalable, secure solutions. We are not just building apps; we are architecting the future of the world.
+I’m **Zakaria Qasid**, 17, a full-stack developer building innovative applications that combine productivity, gamification, and privacy-first design. Specialized in offline-capable PWAs and modular architectures. We are not just building software; we are capable of being the future of the world.
 
 ---
 
@@ -25,10 +23,10 @@ Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest i
 
 | Branch | Project | Status | Description |
 | :--- | :--- | :--- | :--- |
-| **Infrastructure** | **zyCLOUD** | 🛠️ *Active Dev* | Privacy-centric cloud architecture for the next era. |
-| **Productivity** | **zyFOCUS** | ⚡ *In Progress* | Gamified productivity tool designed to beat the giants. |
-| **Cybersecurity** | **zySECURITY** | 🛡️ **COMING SOON** | Uncompromising local-first security protocols. |
-| **Education** | **zyEXAM** | 🎓 **COMING SOON** | The future of examination and academic assessment. |
+| **Infrastructure** | **zyCLOUD** | 🛠️ *Active Dev* | Privacy-centric cloud architecture. |
+| **Productivity** | **zyFOCUS** | ⚡ *In Progress* | Gamified tools to outperform industry giants. |
+| **Cybersecurity** | **zySECURITY** | 🛡️ **COMING SOON** | Local-first security protocols. |
+| **Education** | **zyEXAM** | 🎓 **COMING SOON** | Next-gen academic assessment systems. |
 
 ---
 
@@ -37,11 +35,7 @@ Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest i
 ### **Zytech** | CEO & Founder
 *May 2025 – Present*
 
-> *"As the founder I make sure to build the future, while fixing the present. We are professional, capable, and ready to lead."*
-
-* **Core Focus:** Local-first infrastructure and global scalability.
-* **Tech Stack:** JavaScript, CSS3, HTML5, ZyUI.
-* **Key Achievement:** Architecting the **zySERVICES** ecosystem to outperform industry standards.
+> *"As the founder I make sure to build the future, while fixing the present. Professional, capable, and ready to lead."*
 
 ---
 
@@ -49,27 +43,21 @@ Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest i
 
 ### **Full-Stack Engineering** | Self-Taught via Codecademy
 *2023 – Present*
-Intensive focus on JavaScript, backend architecture, and modern scalable systems.
 
 ### **Physics & Chemistry Track** | El Kindi High School
 *2024 – 2026 (Ongoing)*
-Applying scientific logic to complex software challenges. Preparing for national exams in June 2026.
 
 ---
 
-## 🛠️ Technological Arsenal
-
-### **Frontend & Architecture**
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma" />
-
-### **Backend & Deployment**
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,git,github,vscode,vercel" />
-
----
-
-## 📊 Neural Network Activity (Stats)
+## 📊 Performance & Traffic Metrics
 
 <div align="center">
+
+| 📅 Daily Visitors | 📅 Monthly Visitors | 📅 Yearly Visitors |
+| :---: | :---: | :---: |
+| ![Daily](https://api.visitorbadge.io/api/visitors?path=zakariaweb.daily&label=Daily&countColor=%232196f3&style=flat-square) | ![Monthly](https://api.visitorbadge.io/api/visitors?path=zakariaweb.monthly&label=Monthly&countColor=%232196f3&style=flat-square) | ![Yearly](https://api.visitorbadge.io/api/visitors?path=zakariaweb.yearly&label=Yearly&countColor=%232196f3&style=flat-square) |
+
+<br>
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true" width="49%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=radical&title_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&langs_count=10" width="48%" />
@@ -80,7 +68,7 @@ Applying scientific logic to complex software challenges. Preparing for national
 
 <br>
 
-![Visitors](https://komarev.com/ghpvc/?username=zakariaweb&label=GLOBAL+TRAFFIC&color=2196F3&style=for-the-badge)
+![Total Traffic](https://komarev.com/ghpvc/?username=zakariaweb&label=TOTAL+NETWORK+VISITS&color=2196F3&style=for-the-badge)
 
 </div>
 
@@ -89,7 +77,7 @@ Applying scientific logic to complex software challenges. Preparing for national
 <div align="center">
 
 ### 💡 Rotating Developer Inspiration
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=2196F3&bg_color=0d1117" width="100%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=2196F3&bg_color=0d1117&v=2" width="100%" />
 
 <br>
 
