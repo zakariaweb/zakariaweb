@@ -1,66 +1,66 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=550&height=70&lines=ZAKARIA+QASID;CEO+%26+FOUNDER+OF+ZYTECH;THE+FUTURE+OF+THE+WORLD" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=100&lines=ZAKARIA+QASID;CEO+OF+ZYTECH+GROUP;THE+FUTURE+OF+THE+WORLD" alt="Typing SVG" />
 
-<img src="https://github.com/zakariaweb.png" alt="Zakaria Qasid" width="160" height="160" />
+<img src="https://github.com/zakariaweb.png" alt="Zakaria Qasid" width="180" height="180" style="border-radius: 50%; border: 4px solid #2196F3; box-shadow: 0px 0px 20px #2196F3;" />
 
-### 🌌 Architecting the Next Generation of Local-First Tech
-📍 **Casablanca, Morocco**
+### 🌌 GLOBAL ARCHITECT & FULL-STACK ENGINEER
+**Casablanca, Morocco 🇲🇦 | zySERVICES Global Infrastructure**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakariaweb)&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-qasid-637989266/)&nbsp;&nbsp;[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/zyservices)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-qasid-637989266/)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Executive_Portfolio-2196F3?style=for-the-badge&logo=vercel&logoColor=white)](https://zytechg.vercel.app/ceo.html)&nbsp;&nbsp;[![Patreon](https://img.shields.io/badge/Support_Innovation-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/zyservices)
 
 ---
 
 </div>
 
-## 🧬 Executive Bio
-I’m **Zakaria Qasid**, 17, a full-stack developer building innovative applications that combine productivity, gamification, and privacy-first design. Specialized in offline-capable PWAs and modular architectures. We are not just building software; we are capable of being the future of the world.
+## 🧬 Strategic Executive Summary
+<p align="left">
+I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We are architecting a future centered on digital sovereignty and local-first data integrity. My expertise lies in high-performance full-stack engineering, focusing on modular infrastructure that empowers users through privacy. From <b>Codecademy</b> to <b>CEO</b>, I build systems where the user remains in total control of their data.
+</p>
 
 ---
 
 ## 🏛️ The zySERVICES Ecosystem
-*Our specialized branches dedicated to redefining digital infrastructure.*
+*Redefining infrastructure through local-first principles and modern architecture.*
 
-| Branch | Project | Status | Description |
+<div align="center">
+
+| ☁️ zyCLOUD | ⚡ zyFOCUS | 🛡️ zySECURITY | 🎓 zyEXAM |
 | :--- | :--- | :--- | :--- |
-| **Infrastructure** | **zyCLOUD** | 🛠️ *Active Dev* | Privacy-centric cloud architecture. |
-| **Productivity** | **zyFOCUS** | ⚡ *In Progress* | Gamified tools to outperform industry giants. |
-| **Cybersecurity** | **zySECURITY** | 🛡️ **COMING SOON** | Local-first security protocols. |
-| **Education** | **zyEXAM** | 🎓 **COMING SOON** | Next-gen academic assessment systems. |
+| **Storage without the need of cloud.** | **A productivity ecosystem for focused work.** | **Uncompromising local security protocols.** | **Next-gen academic assessment systems.** |
+| *Active Deployment* | *Optimizing UX* | *Stealth Mode* | *R&D Phase* |
+
+</div>
 
 ---
 
 ## 💼 Professional Trajectory
 
-### **Zytech** | CEO & Founder
-*May 2025 – Present*
-
-> *"As the founder I make sure to build the future, while fixing the present. Professional, capable, and ready to lead."*
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Current Role</h3>
+      <b>CEO & Founder at Zytech</b><br>
+      <i>2025 - Present</i><br>
+      Leading the development of <b>ZyUI</b> and <b>zySERVICES</b>. I specialize in building "Local-First" applications that prioritize on-device storage and encryption.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 Academic Foundation</h3>
+      <b>Physics & Chemistry | El Kindi</b><br>
+      <i>2024 - 2026</i><br>
+      Self-taught engineer via <b>Codecademy</b> since 2023. Merging scientific logic with complex system architecture.
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎓 Education & Knowledge Base
-
-### **Full-Stack Engineering** | Self-Taught via Codecademy
-*2023 – Present*
-
-### **Physics & Chemistry Track** | El Kindi High School
-*2024 – 2026 (Ongoing)*
-
----
-
-## 📊 Performance & Traffic Metrics
+## 📊 Neural Network Command Center (Global Analytics)
 
 <div align="center">
 
-| 📅 Daily Visitors | 📅 Monthly Visitors | 📅 Yearly Visitors |
-| :---: | :---: | :---: |
-| ![Daily](https://api.visitorbadge.io/api/visitors?path=zakariaweb.daily&label=Daily&countColor=%232196f3&style=flat-square) | ![Monthly](https://api.visitorbadge.io/api/visitors?path=zakariaweb.monthly&label=Monthly&countColor=%232196f3&style=flat-square) | ![Yearly](https://api.visitorbadge.io/api/visitors?path=zakariaweb.yearly&label=Yearly&countColor=%232196f3&style=flat-square) |
-
-<br>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true" width="49%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=radical&title_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&langs_count=10" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true" width="49.5%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=radical&title_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&langs_count=10" width="49.5%" />
 
 <br>
 
@@ -68,8 +68,18 @@ I’m **Zakaria Qasid**, 17, a full-stack developer building innovative applicat
 
 <br>
 
-![Total Traffic](https://komarev.com/ghpvc/?username=zakariaweb&label=TOTAL+NETWORK+VISITS&color=2196F3&style=for-the-badge)
+| 🕒 Daily Traffic | 📅 Monthly Traffic | 📆 Yearly Traffic | 📈 Total Engagement |
+| :---: | :---: | :---: | :---: |
+| ![D](https://api.visitorbadge.io/api/visitors?path=zakariaweb.daily&label=LIVE&countColor=%232196f3&style=flat-square) | ![M](https://api.visitorbadge.io/api/visitors?path=zakariaweb.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square) | ![Y](https://api.visitorbadge.io/api/visitors?path=zakariaweb.yearly&label=YEARLY&countColor=%232196f3&style=flat-square) | ![Total](https://komarev.com/ghpvc/?username=zakariaweb&label=NETWORK+VISITS&color=2196F3&style=for-the-badge) |
 
+</div>
+
+---
+
+## 🛠️ Technological Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma,nodejs,express,mongodb,git,github,vscode,vercel,postman,linux" />
 </div>
 
 ---
@@ -77,10 +87,10 @@ I’m **Zakaria Qasid**, 17, a full-stack developer building innovative applicat
 <div align="center">
 
 ### 💡 Executive Insights
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=2196F3&center=true&vCenter=true&width=800&height=50&lines=The+best+way+to+predict+the+future+is+to+invent+it.;Move+fast+and+build+things+that+matter.;Code+is+the+architecture+of+the+new+world.;Privacy+is+not+an+option%2C+it's+a+foundation.;Strive+for+excellence+in+every+line+of+code." alt="Animated Quotes" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=2000&color=2196F3&center=true&vCenter=true&width=900&height=60&lines=The+best+way+to+predict+the+future+is+to+invent+it.;Move+fast+and+build+things+that+matter.;Privacy+is+not+an+option%2C+it's+a+foundation.;Strive+for+excellence+in+every+line+of+code." alt="Animated Quotes" />
 
 <br>
 
-**Thank you for visiting the digital headquarters of Zakaria Qasid! 😊**
+**Thank you for visiting the digital headquarters of Zakaria Qasid.**
 
 </div>
