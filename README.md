@@ -1,31 +1,175 @@
-# 💫 About Me:
-I’m Zakaria (Zach), 17, a full-stack developer passionate about building innovative web applications that combine productivity, gamification, and privacy-first design. I specialize in offline-capable PWAs, modular architectures, AI integration, and modern web technologies.<br><br>Beyond coding, I’m an avid reader, writer, lyricist, and gamer, with a strong interest in tech, anime, and creative projects. My work reflects a focus on problem-solving, user experience, and scalable, secure solutions.<br><br>Skills:<br><br>Frontend: HTML, CSS, JavaScript<br><br>Backend: Node.js, Express, MySQL, Supabase<br><br>Other: Web3 integration, AI agents, offline-first PWAs, modular app architecture, gamification systems
+<div align="center">
 
+# Hi 👋, I'm Zach Q.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_only_zico) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakaria-qasid-637989266/) 
+### A passionate developer from Morocco
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zakariaweb&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zakariaweb&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaweb&theme=graywhite&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github.com/zakariaweb.png" alt="Zach Q." width="150" height="150" style="border-radius: 50%;" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zakariaweb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 About Me
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=zakariaweb&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I’m Zakaria (Zach), 17, a full-stack developer passionate about building
+innovative web applications that combine productivity, gamification, and
+privacy-first design. I specialize in offline-capable PWAs, modular
+architectures, AI integration, and modern web technologies.
+
+Beyond coding, I’m an avid reader, writer, lyricist, and gamer, with a strong
+interest in tech, anime, and creative projects. My work reflects a focus on
+problem-solving, user experience, and scalable, secure solutions.
+
+## 💼 Current Work
+
+<div align="left">
+
+- 🔭 I'm currently working on **ZyUI , ZyCLOUD , ZyFOCUS**
+- 👯 I'm looking to collaborate on **ZyCLOUD**
+- 🤝 I'm looking for help with **ZyUI**
+
+</div>
+
+## 📚 Learning & Knowledge
+
+<div align="left">
+
+- 🌱 I'm currently learning **More technologies to overcome the struggles of
+  today , maybe i'll learn react in the future.**
+
+</div>
+
+## 💼 Work Experience
+
+| Company | Position    | Duration          |
+| ------- | ----------- | ----------------- |
+| Zytech  | CEO/FOUNDER | 2025-05 - Present |
+
+### CEO/FOUNDER at Zytech
+
+_Casablanca , Morocco_
+
+as the founder i make sure to build the future , while fixing the present .
+
+**Technologies:** JS, CSS, HTML, ZyUI
+
+**Key Achievements:**
+
+- FOUNDER
+- PRIVACY
+- FIRST LOCAL-FIRST PRODUCTIVITY APP
+
+## 🚀 Projects
+
+| Project | Description                                                                                     | Links                                                                                      |
+| ------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| ZyUI    | A Framwork (css & js) that would help u create ur website, it's modern and very fast , try it ! | [Live](https://zyfocusg.vercel.app) / [GitHub](https://github.com/zakariaweb/Zy-Framework) |
+
+### ZyUI
+
+**Technologies Used:** Vanilla JS, React, Vue, Angular, Css, NPM
+
+## 🎓 Education
+
+| Institution          | Degree  | Duration          |
+| -------------------- | ------- | ----------------- |
+| El Kindi High School | ongoing | 2024-09 - 2026-06 |
+
+### ongoing in Physics & Chemistry Track
+
+_El Kindi High School_
+
+it was a good journey , developing apps and showing them to my friends , yet i
+hope to get my bachelor's soon so i can continue coding !
+
+## 📞 Contact & Links
+
+<div align="left">
+
+- 📫 How to reach me **zyservicesg@gmail.com**
+- 👨‍💻 All of my projects are available at
+  [https://zytechg.vercel.app/ceo.html](https://zytechg.vercel.app/ceo.html)
+- 📝 I regularly write articles on [none](none)
+- 📄 Know about my experiences
+  [https://zytechg.vercel.app/ceo.html](https://zytechg.vercel.app/ceo.html)
+
+</div>
+
+## ⚡ Fun Fact
+
+<div align="center">
+
+_i'm 17 yo dev who could beat notion , google drive .... , in some aspects _
+
+</div>
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zakariawe)&nbsp;&nbsp;&nbsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-qasid-637989266/)
+
+</div>
+
+## ☕ Support Me
+
+<div align="center">
+
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/zyservices)
+
+</div>
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 💻 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;&nbsp;![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 💻 Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 💻 Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 💻 Static Site Generators
+
+![Jekyll](https://img.shields.io/badge/Jekyll-000000?style=for-the-badge&logo=jekyll&logoColor=white)
+
+### 💻 Other
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=zakariawe&label=Profile%20Visitors&color=blueviolet&style=flat-square)
+
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zakariawe&theme=tokyonight&column=7&margin-w=15&margin-h=15)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakariawe&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariawe&layout=compact&theme=radical&langs_count=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariawe&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
+
+<!-- LeetCode Stats Card: LeetCode username required -->
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=zakariaweb&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.patreon.com/zyservices?utm_campaign=creatorshare_creator) 
+<div align="center">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎯 "Code is like humor. When you have to explain it, it's bad." – Cory House
+
+**Thank you for visiting my profile! 😊**
+
+![Profile Views](https://komarev.com/ghpvc/?username=zakariawe&color=brightgreen&style=flat-square&label=Profile+Views)
+
+</div>
