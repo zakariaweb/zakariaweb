@@ -77,7 +77,7 @@ I’m **Zakaria Qasid**, 17, a full-stack developer building innovative applicat
 <div align="center">
 
 ### 💡 Rotating Developer Inspiration
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote_color=2196F3&bg_color=0d1117&v=2" width="100%" />
+<img src="https://programming-quotes-api.vercel.app/api/svg?theme=radical&color=2196F3&id=unique_zakaria_qasid_hq" width="100%" />
 
 <br>
 
