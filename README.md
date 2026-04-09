@@ -1,8 +1,8 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=550&height=70&lines=ZACH+QASID;CEO+%26+FOUNDER+OF+ZYTECH;THE+FUTURE+OF+DIGITAL+INFRASTRUCTURE" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=550&height=70&lines=ZAKARIA+QASID;CEO+%26+FOUNDER+OF+ZYTECH;THE+FUTURE+OF+DIGITAL+INFRASTRUCTURE" alt="Typing SVG" />
 
-<img src="https://github.com/zakariaweb.png" alt="Zach Q." width="160" height="160" />
+<img src="https://github.com/zakariaweb.png" alt="Zakaria Qasid" width="160" height="160" />
 
 ### 🌌 Architecting the Next Generation of Local-First Tech
 📍 **Casablanca, Morocco**
@@ -14,14 +14,14 @@
 </div>
 
 ## 🧬 Executive Bio
-I’m **Zakaria (Zach)**, 17, a full-stack developer passionate about building innovative web applications that combine productivity, gamification, and privacy-first design. I specialize in offline-capable PWAs, modular architectures, and AI integration. 
+I’m **Zakaria Qasid**, 17, a full-stack developer passionate about building innovative web applications that combine productivity, gamification, and privacy-first design. I specialize in offline-capable PWAs, modular architectures, and AI integration. 
 
-Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest in tech, anime, and creative projects. My work reflects a focus on problem-solving, user experience, and scalable, secure solutions. We are not just building apps; we are architecting the future.
+Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest in tech, anime, and creative projects. My work reflects a focus on problem-solving, user experience, and scalable, secure solutions. We are not just building apps; we are architecting the future of the world.
 
 ---
 
 ## 🏛️ The zySERVICES Ecosystem
-*Our specialized branches dedicated to redefining the digital world.*
+*Our specialized branches dedicated to redefining digital infrastructure.*
 
 | Branch | Project | Status | Description |
 | :--- | :--- | :--- | :--- |
@@ -49,11 +49,11 @@ Beyond coding, I’m an avid reader, writer, and gamer, with a strong interest i
 
 ### **Full-Stack Engineering** | Self-Taught via Codecademy
 *2023 – Present*
-Focused on deep-level JavaScript, backend systems, and modern architectural patterns. 
+Intensive focus on JavaScript, backend architecture, and modern scalable systems.
 
 ### **Physics & Chemistry Track** | El Kindi High School
 *2024 – 2026 (Ongoing)*
-Applying scientific principles to software logic. Preparing for a Bachelor's degree to further scale Zytech.
+Applying scientific logic to complex software challenges. Preparing for national exams in June 2026.
 
 ---
 
@@ -93,6 +93,6 @@ Applying scientific principles to software logic. Preparing for a Bachelor's deg
 
 <br>
 
-**Thank you for visiting my digital headquarters! 😊**
+**Thank you for visiting the digital headquarters of Zakaria Qasid! 😊**
 
 </div>
