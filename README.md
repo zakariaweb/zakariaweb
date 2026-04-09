@@ -138,15 +138,11 @@ it was a good journey , developing apps and showing them to my friends , yet i h
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=zakariaweb&label=Profile%20Visitors&color=blueviolet&style=flat-square)
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=zakariaweb&theme=tokyonight&column=7&margin-w=15&margin-h=15)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zakariaweb&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=radical&langs_count=10)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zakariaweb&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
-<!-- LeetCode Stats Card: LeetCode username required -->
 
 </div>
 
