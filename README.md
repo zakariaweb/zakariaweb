@@ -76,8 +76,8 @@ I’m **Zakaria Qasid**, 17, a full-stack developer building innovative applicat
 
 <div align="center">
 
-### 💡 Rotating Developer Inspiration
-<img src="https://programming-quotes-api.vercel.app/api/svg?theme=radical&color=2196F3&id=unique_zakaria_qasid_hq" width="100%" />
+### 💡 Executive Insights
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=2000&color=2196F3&center=true&vCenter=true&width=800&height=50&lines=The+best+way+to+predict+the+future+is+to+invent+it.;Move+fast+and+build+things+that+matter.;Code+is+the+architecture+of+the+new+world.;Privacy+is+not+an+option%2C+it's+a+foundation.;Strive+for+excellence+in+every+line+of+code." alt="Animated Quotes" />
 
 <br>
 
