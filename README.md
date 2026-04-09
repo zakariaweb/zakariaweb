@@ -34,6 +34,13 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 ---
 
+## 🗺️ 2026 Strategic Roadmap
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=40&lines=Q2:+Launching+zyCLOUD+Beta;Q3:+Deploying+zySECURITY+Protocols;Q4:+zyEXAM+Platform+Integration" alt="Roadmap" />
+</p>
+
+---
+
 ## 💼 Professional Trajectory
 
 <table width="100%">
@@ -52,6 +59,16 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
     </td>
   </tr>
 </table>
+
+---
+
+## 🛠️ Development Philosophy & Workflow
+*How I build high-tier, performant software.*
+
+- ⚡ **Performance First:** Preference for "Vanilla" JS/HTML/CSS to eliminate framework overhead.
+- 📂 **Local-First:** Prioritizing on-device data storage before ever hitting the wire.
+- 🧩 **Modular Design:** Building reusable UI components via the **ZyUI** proprietary framework.
+- 🔐 **Privacy by Design:** Implementing encryption at the architectural level, not as an afterthought.
 
 ---
 
@@ -76,11 +93,18 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 ---
 
-## 🛠️ Technological Arsenal
+## 🧪 Technological Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma,nodejs,express,mongodb,git,github,vscode,vercel,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,figma,nodejs,express,mongodb,git,github,vscode,vercel,postman,linux,powershell,npm" />
 </div>
+
+---
+
+## 📈 Activity Heatmap
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariaweb&theme=react-dark&bg_color=0d1117&color=2196F3&line=2196F3&point=ffffff&hide_border=true" width="100%" />
+</p>
 
 ---
 
