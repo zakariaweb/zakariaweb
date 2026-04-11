@@ -79,12 +79,12 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zakariaweb&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true" width="49.5%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zakariaweb&layout=compact&theme=radical&title_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&langs_count=10" width="49.5%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ZakariaQasid&show_icons=true&theme=radical&title_color=2196F3&icon_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&count_private=true&include_all_commits=true" width="49.5%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ZakariaQasid&layout=compact&theme=radical&title_color=2196F3&text_color=ffffff&bg_color=0d1117&border_color=2196F3&langs_count=10" width="49.5%" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zakariaweb&theme=dark&border=2196F3&stroke=2196F3&background=0d1117" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ZakariaQasid&theme=dark&border=2196F3&stroke=2196F3&background=0d1117" width="100%" />
 
 <br>
 
