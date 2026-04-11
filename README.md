@@ -34,7 +34,7 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 ---
 
-## 🗺️ 2026 Strategic Roadmap
+## 🗺️ 2026  Strategic Roadmap
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=800&height=40&lines=Q2:+Launching+zyCLOUD+Beta;Q3:+Deploying+zySECURITY+Protocols;Q4:+zyEXAM+Platform+Integration" alt="Roadmap" />
 </p>
@@ -53,9 +53,9 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Academic Foundation</h3>
-      <b>Physics & Chemistry | El Kindi</b><br>
+      <b>Physics & Chemistry | High School El Kindi (Bouskoura) </b><br>
       <i>2024 - 2026</i><br>
-      Self-taught engineer via <b>Codecademy</b> since 2023. Merging scientific logic with complex system architecture.
+      Self-taught engineer via <b>Codecademy</b> since 2023. Merging Life Problems with complex system architecture to build the future.
     </td>
   </tr>
 </table>
