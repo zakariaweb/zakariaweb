@@ -55,6 +55,9 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
       <h3>🎓 Academic Foundation</h3>
       <b>Physics & Chemistry | High School El Kindi (Bouskoura) </b><br>
       <i>2024 - 2026</i><br>
+      Making it through the Moroccan educational system just to get My baccalaureate .
+            <b> 💻 Full-Stack MZEN | Codcademy  </b><br>
+      <i>2023 - 2025</i><br>
       Self-taught engineer via <b>Codecademy</b> since 2023. Merging Life Problems with complex system architecture to build the future.
     </td>
   </tr>
