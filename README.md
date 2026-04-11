@@ -5,7 +5,7 @@
 <img src="https://github.com/ZakariaQasid.png" alt="Zakaria Qasid" width="180" height="180" style="border-radius: 50%; border: 4px solid #2196F3; box-shadow: 0px 0px 20px #2196F3;" />
 
 ### 🌌 GLOBAL ARCHITECT & FULL-STACK ENGINEER
-**Casablanca, Morocco 🇲🇦 | zySERVICES Global Infrastructure**
+**Casablanca, Morocco 🇲🇦 | ZyTech™ Global Infrastructure**
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zakaria-qasid-637989266/)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Executive_Portfolio-2196F3?style=for-the-badge&logo=vercel&logoColor=white)](https://zytechg.vercel.app/ceo.html)&nbsp;&nbsp;[![Patreon](https://img.shields.io/badge/Support_Innovation-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/zyservices)
 
