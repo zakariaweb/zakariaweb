@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=100&lines=ZAKARIA+QASID;CEO+OF+ZYTECH+GROUP;THE+FUTURE+OF+THE+WORLD" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=2196F3&center=true&vCenter=true&width=700&height=100&lines=ZAKARIA+QASID+AKA+ZACH+Q;CEO+OF+ZYTECH+GROUP;THE+FUTURE+OF+THE+WORLD" alt="Typing SVG" />
 
 <img src="https://github.com/ZakariaQasid.png" alt="Zakaria Qasid" width="180" height="180" style="border-radius: 50%; border: 4px solid #2196F3; box-shadow: 0px 0px 20px #2196F3;" />
 
