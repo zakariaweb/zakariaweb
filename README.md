@@ -90,7 +90,7 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 | 🕒 Daily Traffic | 📅 Monthly Traffic | 📆 Yearly Traffic | 📈 Total Engagement |
 | :---: | :---: | :---: | :---: |
-| ![D](https://api.visitorbadge.io/api/visitors?path=zakariaweb.daily&label=LIVE&countColor=%232196f3&style=flat-square) | ![M](https://api.visitorbadge.io/api/visitors?path=zakariaweb.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square) | ![Y](https://api.visitorbadge.io/api/visitors?path=zakariaweb.yearly&label=YEARLY&countColor=%232196f3&style=flat-square) | ![Total](https://komarev.com/ghpvc/?username=zakariaweb&label=NETWORK+VISITS&color=2196F3&style=for-the-badge) |
+| ![D](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.daily&label=LIVE&countColor=%232196f3&style=flat-square) | ![M](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.monthly&label=MONTHLY&countColor=%232196f3&style=flat-square) | ![Y](https://api.visitorbadge.io/api/visitors?path=ZakariaQasid.yearly&label=YEARLY&countColor=%232196f3&style=flat-square) | ![Total](https://komarev.com/ghpvc/?username=ZakariaQasid&label=NETWORK+VISITS&color=2196F3&style=for-the-badge) |
 
 </div>
 
@@ -106,7 +106,7 @@ I am <b>Zakaria Qasid</b>, the 17-year-old visionary behind <b>Zytech</b>. We ar
 
 ## 📈 Activity Heatmap
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakariaweb&theme=react-dark&bg_color=0d1117&color=2196F3&line=2196F3&point=ffffff&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZakariaQasid&theme=react-dark&bg_color=0d1117&color=2196F3&line=2196F3&point=ffffff&hide_border=true" width="100%" />
 </p>
 
 ---
